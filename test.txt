@@ -1,1 +1,333 @@
-yfyjfyfyffyf
+
+Acer@HANhannah-k MINGW64 ~
+$ cd
+
+Acer@HANhannah-k MINGW64 ~
+$ dit\r
+bash: ditr: command not found
+
+Acer@HANhannah-k MINGW64 ~
+$ dir
+AppData
+Application\ Data
+Contacts
+Cookies
+Documents
+Downloads
+Dropbox
+Favorites
+ISHAREit-bluetooth-invite.apk
+IdeaProjects
+IntelGraphicsProfiles
+Links
+Local\ Settings
+Music
+My\ Documents
+NTUSER.DAT
+NTUSER.DAT{e765d6bc-751f-11ed-b0b1-c1c2e1e01363}.TM.blf
+NTUSER.DAT{e765d6bc-751f-11ed-b0b1-c1c2e1e01363}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{e765d6bc-751f-11ed-b0b1-c1c2e1e01363}.TMContainer00000000000000000002.regtrans-ms
+NetHood
+OneDrive
+PrintHood
+Recent
+Saved\ Games
+Searches
+SendTo
+Start\ Menu
+Templates
+Videos
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+
+Acer@HANhannah-k MINGW64 ~
+$ cd Downloads/
+
+Acer@HANhannah-k MINGW64 ~/Downloads
+$ dir
+1-03a7d9df3f4916a9f0c72e5734836fb9.jpg
+2-511843329089844ba383be2a98a55e83.jpg
+2-93ab75d2bf2e16c0dd2fc45dd69e76e5.jpg
+20220223_144957-1.jpg
+222.jpg
+3-d54121fea838830e7e929dbcf1f1a3a4.jpg
+309298491_616416876875947_5218771427378811765_n.jpg
+309749591_802588601064560_1360153576609162291_n.jpg
+309941530_393087596203467_1920829388815253470_n.jpg
+311413522_986500149402482_6748089029177131909_n.jpg
+312009241_3293449970912866_5565271452926479128_n.jpg
+312084557_634926198093134_1387976933666268136_n.jpg
+313859886_1332973517498050_1364829908059198495_n.jpg
+314417918_648225033437884_7916169406172068703_n.jpg
+314929532_806179863986141_5927104089622080707_n.jpg
+315117582_845104613578012_2897134947925543401_n.jpg
+315146461_813216636678448_6919438914582199680_n.jpg
+315228931_451348110270060_6975918307125271302_n.jpg
+316041406_457676783145165_2295177176716126408_n.jpg
+316046334_640863620935793_9043726796040586910_n.jpg
+316105617_1318115452393440_7634918190023837191_n.jpg
+316167126_692088929142287_8580578273295698708_n.jpg
+317243693_512749034121785_6298659388602898982_n.jpg
+326193876_1342778256556406_4707626198959029277_n.jpg
+327284348_1416392452436848_8877071680580059035_n.jpg
+328926928_1181045036134113_4033140212752563565_n.jpg
+329520591_861657158248844_9201039697898930076_n.jpg
+333800288_2375457009273375_7936384095509267678_n.jpg
+3364a6307795b77c6adb1d14fc7dd998.jpg
+35f2e40d0b82bb994b98648839ba86e6.jpg
+55_70645_NE465_2015_1_1_2_1_lecture\ 1_l.pdf
+998e645d7490a82d259a1cf9e122f1a8.jpg
+APPLICATION-SOFTWARE.1.pptx
+APPLICATION-SOFTWARE.pptx
+Albert\ Einstein\ and\ Theory\ of\ relativity\ \ \ Full\ Documentary\ HD.mp4
+BUDGET-PROPOSAL.docx
+Background_Music_for_Presentations,_Speeches,_Lectures_and_Videos__12_min.MP3
+BlueStacksInstaller_5.9.400.1021_native_034740ba2fc4b7cfe22aad391ec29124_MDs1LDE7MTUsMzsxNQ==.exe
+CHAPTER-2A.pptx
+CHAPTER-2B.pptx
+CHAPTER-4A.pptx
+CHAPTER-4B.pptx
+CONTRAINDICATED-FLEXIBILITY-EXERCISES.pptx
+CS-01-Chapter-2-Lesson-Activity-2.1-Answers-20230904.pdf
+CS-01-Chapter-2.docx
+CS-01-Chapter-2.pdf
+CS01-ass1.pdf
+CS01_Ass.1\ (1).pdf
+CS01_Ass.1.pdf
+CS102_Programming_Handbook.pdf
+CV.mp4
+CV1.mp4
+CV2.mp4
+ChromeSetup.exe
+Dev-Cpp_5.11_TDM-GCC_4.9.2_Setup.exe
+Discovering\ Computers\ -\ Chapter\ 2_edited.pdf
+Discovering\ Computers\ -\ Chapter\ 3.pdf
+Discovering\ computers\ -\ Chapter\ 1.pdfx.pdf
+Document\ 33\ (1).pdf
+EXAM-RESCHED.pdf
+Embarcadero_Dev-Cpp_6.3_TDM-GCC_9.2_Setup.exe
+ExplanationLetter.pdf
+File_Part1.ZIP
+Flexibility-exercises.pptx
+GE1-FINALS2\ 1\ (1).pdf
+GE1-FINALS2\ 1.pdf
+Git-2.42.0.2-64-bit.exe
+GitHubDesktopSetup-x64.exe
+GoogleDriveSetup.exe
+GrammarlyInstaller.cBbgdv07xoez7i517hbs0002.exe
+Hannah\ Kaye\ Famador\ -\ Shortcut.lnk
+Hannah\ Kaye\ S.\ Famador\ \ 2022\ Solidarity\ Building\ Certificate\ of\ Participation.pdf
+I-am-sharing-chapter-7-and-8-with-you\ (1).pdf
+I-am-sharing-chapter-7-and-8-with-you.pdf
+ISHAREit-bluetooth-invite\ (1).apk
+ISHAREit-bluetooth-invite.apk
+Install-GooglePlayGames-Beta.exe
+KMSAuto-Net-Portable_qTPWcnFF
+KMSAuto-Net-Portable_qTPWcnFF.zip
+LESSON-2-GLOBALIZATION-1.pptx
+LTR_EDC.pdf
+Laws-of-Exponent--min.png
+Lesson-6-GLOBAL-CITY-PPT-1\ (1).pptx
+Lesson-6-GLOBAL-CITY-PPT-1.pptx
+Letter-EDC.docx
+Letter3.pdf
+NRnR.exe
+NVCFI.PermitWaiver.docx
+NewJeans.html
+NewJeans_files
+OIP\ (1).jpeg
+OIP\ (6).jpeg
+OIP.jpeg
+PRELIM-PURPOSIVE-COMM.-W1.pdf
+Picsart_22-06-15_18-07-11-226.jpg
+Pictures\ -\ Shortcut.lnk
+PowerToysUserSetup-0.73.0-x64.exe
+Pre-enrollment\ Academic\ Program\ Orientation\ Schedule\ .pdf
+Presentation2.pptx
+Purporsive-Com-Pair-Midterm-Requirement.docx
+Sustainable-infrastructure-2022-GII-Summit.pdf
+T2a\ One-sided\ limits\ limits\ at\ infinity.ppt.pdf
+T2b\ Infinite\ Limits\ squeeze\ theorem.ppt.pdf
+The\ beauties\ of\ nature\ are\ endless.pdf
+The-Selection-Structure_C4.ppt
+Topic-1-PREFINAL.pdf
+Topic-2-PREFINAL.pdf
+Topic-3-PREFINAL.pdf
+Topic-4-PREFINAL.pdf
+TypingMaster11.exe
+USM-ADMISSION-REQUIREMENTS-SY-2023-2024.pdf
+USM-AFFIDAVIT-SY-2023-2024.pdf
+USM-Enrollment-Certification-SY-2023-2024.pdf
+Unconfirmed\ 114616.crdownload
+VSCodeUserSetup-x64-1.81.1.exe
+WEEK\ 1\ \ 2HISTORY\ .docx
+WEEK-1-2HISTORY.docx
+YTS.MX
+Zoom_cm_fo42anktZ9vvrZo4_mAaFTHCCKIh0tJrlJmBULWsf0EXc7Rmjy9Zri@FfEZeeA4HLbz8uzN_k0f9630195ea40f64_.exe
+a5adb0734ac5f825be346aee78b87551.jpg
+advanced-social-technologies-and-the-future-of-collaboration.pdf
+artsapp.pdf
+avast_free_antivirus_setup_online.exe
+b3abc9e8dc56c6dfdd93f3ba282d82c2.jpg
+bdcamsetup.exe
+bigbang-we-like-2-party-에라-모르_-다-f.mp4
+building-products-in-the-digital-age-its-hard-to-get-smart.pdf
+desktop.ini
+devcpp-4.9.9.2_setup\ (1).exe
+devcpp-4.9.9.2_setup.exe
+devcpp.exe
+evolution-of-social-technologies.pdf
+fastsave-for-instagram-75-0.apk
+fr.jpg
+grey-full-moon-illustration-white-background.zip
+how\ social\ technologies\ are\ extending\ the\ organization.pdf
+images\ (67).jpeg
+index(1).DS_Store
+index(2).DS_Store
+index(3).DS_Store
+index.DS_Store
+index.mp4
+jdk-20_windows-x64_bin\ (1).msi
+jdk-20_windows-x64_bin.msi
+jdk-20_windows-x64_bin.zip
+lv_0_20221223025643.mp4
+musify.exe
+positive-and-negative-peace.pptx
+sodapdf-converted-1.pptx
+taeyang-눈-코-입-eyes-nose-lips-0424-fan.mp4
+tf00373653_win32\ (1).potx
+tf00373653_win32.potx
+the-impact-of-social-networking-infographic.mp4
+try.txt
+
+Acer@HANhannah-k MINGW64 ~/Downloads
+$ mkdir han
+
+Acer@HANhannah-k MINGW64 ~/Downloads
+$ cd han
+
+Acer@HANhannah-k MINGW64 ~/Downloads/han
+$ init
+bash: init: command not found
+
+Acer@HANhannah-k MINGW64 ~/Downloads/han
+$ git init
+Initialized empty Git repository in C:/Users/Acer/Downloads/han/.git/
+
+Acer@HANhannah-k MINGW64 ~/Downloads/han (master)
+$ git config --global user.HANhannahk
+
+Acer@HANhannah-k MINGW64 ~/Downloads/han (master)
+$ git push origin master
+error: src refspec master does not match any
+error: failed to push some refs to 'origin'
+
+Acer@HANhannah-k MINGW64 ~/Downloads/han (master)
+$ git remote add origin
+usage: git remote add [<options>] <name> <url>
+
+    -f, --fetch           fetch the remote branches
+    --tags                import all tags and associated objects when fetching
+                          or do not fetch any tag at all (--no-tags)
+    -t, --track <branch>  branch(es) to track
+    -m, --master <branch> master branch
+    --mirror[=(push|fetch)]
+                          set up remote as a mirror to push to or fetch from
+
+
+Acer@HANhannah-k MINGW64 ~/Downloads/han (master)
+$ git commit -m "v4v4vt4v4tv4tv4v4vt"
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        test.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Acer@HANhannah-k MINGW64 ~/Downloads/han (master)
+$ git config --global user.email "s.hakasifamador@usm.edu.ph"
+
+Acer@HANhannah-k MINGW64 ~/Downloads/han (master)
+$ git remote add origin https://github.com/HANhannahK/1BSCS
+
+Acer@HANhannah-k MINGW64 ~/Downloads/han (master)
+$ git push origin master
+error: src refspec master does not match any
+error: failed to push some refs to 'https://github.com/HANhannahK/1BSCS'
+
+Acer@HANhannah-k MINGW64 ~/Downloads/han (master)
+$ git commit -m "act03"
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        test.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Acer@HANhannah-k MINGW64 ~/Downloads/han (master)
+$ ^C
+
+Acer@HANhannah-k MINGW64 ~/Downloads/han (master)
+$ git commit -m "test"
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        test.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Acer@HANhannah-k MINGW64 ~/Downloads/han (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        test.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Acer@HANhannah-k MINGW64 ~/Downloads/han (master)
+$ git commit -m "test"
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        test.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Acer@HANhannah-k MINGW64 ~/Downloads/han (master)
+$ git add --all
+
+Acer@HANhannah-k MINGW64 ~/Downloads/han (master)
+$ git commit -m "test"
+[master (root-commit) ffc735a] test
+ 1 file changed, 1 insertion(+)
+ create mode 100644 test.txt
+
+Acer@HANhannah-k MINGW64 ~/Downloads/han (master)
+$ git push origin master
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 219 bytes | 219.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/HANhannahK/1BSCS
+ * [new branch]      master -> master
+
+Acer@HANhannah-k MINGW64 ~/Downloads/han (master)
+$
+
